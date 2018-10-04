@@ -1,1 +1,7 @@
+                           Requirements
+
+
+Data: Links.csv, tags.csv, movies.csv, ratings,csv
+
+Environment: Jupyter notebook, Spyder, Python 3 
 
